@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(75, 123, 137);
+}
+
+#container {
+    text-align: center;
+
+    border: 1px solid black;
+    width: 300px;
+    margin-left: 400px;
+    margin-right: 400px;
+    height: 300px;
+    
+
+}
